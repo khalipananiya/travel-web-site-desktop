@@ -15,7 +15,7 @@ license
 The Travel Website is a visually appealing and user-friendly platform designed for  desktop view to inspire users to explore the world. It provides detailed information about destinations, promotes the best travel deals, and highlights why it stands out as the top choice for travelers.
 
 ## Live Demo link
-[[live demo link](https://travel-website-mobileview.onrender.com)]
+[[live demo link](https://travel-web-site-desktop.onrender.com)]
 
 ## Features
 - Top Destinations: Showcases a curated selection of must-visit destinations worldwide.
